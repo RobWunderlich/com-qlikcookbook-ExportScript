@@ -1,0 +1,24 @@
+{
+  "name": "com-qlikcookbook-exportscript",
+  "version": "1.0.0",
+  "description": "Extension button to export & import script from Qlik Sense",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "com-qlikcookbook-exportscript"
+  },
+  "keywords": [
+    "Qlik",
+    "Sense",
+    "Qlik",
+    "Script"
+  ],
+  "author": "Rob Wunderlich",
+  "license": "ISC"
+}
