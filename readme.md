@@ -15,7 +15,7 @@ Click the "Export Script" button to export the current script to an external fil
 To import a script file, click the "Import Script" button to choose a file or drag a file to the "Import Script" button.  The imported script will completey replace the existing script. 
 
 ## Installation & Download
-1. Download the [latest version](https://github.com/RobWunderlich/com-qlikcookbook-ExportScript/blob/master/build/com-qlikcookbook-ExportScript_latest.zip) or [any other version](https://github.com/RobWunderlich/com-qlikcookbook-ExportScript/tree/master/build) you want to install.
+1. Download the [latest version](https://github.com/RobWunderlich/com-qlikcookbook-ExportScript/raw/master/build/com-qlikcookbook-ExportScript_latest.zip) or [any other version](https://github.com/RobWunderlich/com-qlikcookbook-ExportScript/tree/master/build) you want to install.
 2. Then install on either *Qlik Sense Desktop* or *Qlik Sense Server*:
 
 * Qlik Sense Desktop
