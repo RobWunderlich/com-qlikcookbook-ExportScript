@@ -1,5 +1,7 @@
 # Qlik Sense ExportScript
 > Export/Import Script button for Qlik Sense
+> 
+> **[DEPRECATED]** This project is no longer maintained. Please use [erikwett/DevTool](https://github.com/erikwett/DevTool) for the same functions and more.
 
 
 
